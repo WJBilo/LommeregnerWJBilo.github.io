@@ -1,0 +1,16 @@
+.box {
+  border: 1px solid white;
+}
+body {
+
+	background-color: grey; 
+
+}
+* {
+	font-family: Script; 
+}
+.test {
+
+visibility: hidden; 
+
+}
